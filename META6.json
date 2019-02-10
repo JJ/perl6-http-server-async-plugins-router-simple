@@ -8,5 +8,5 @@
   "provides" : {
     "HTTP::Server::Async::Plugins::Router::Simple" : "lib/HTTP/Server/Async/Plugins/Router/Simple.pm6"
   },
-  "source-url"  : "git://github.com/tony-o/perl6-http-server-async-plugins-router-simple.git"
+  "source-url"  : "https://github.com/tony-o/perl6-http-server-async-plugins-router-simple.git"
 } 

@@ -11,6 +11,8 @@ my $host = host;
 my $port = port;
 my $rest = HTTP::Server::Async::Plugins::Router::Simple.new;
 my $serv = srv;
+ok $serv, "Serv correctly declared";
+dd $serv;
 my $ord  = 0;
 
 $rest.put(
